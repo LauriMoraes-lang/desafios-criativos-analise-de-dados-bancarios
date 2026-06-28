@@ -1,0 +1,56 @@
+"Meu Prompt"
+
+#Faremos uma simulação de uma análise ficticia, onde você será um Analista de Dados e fará um relatório desta análise, orientações abaixo.
+#Contexto: Você atuará como analista de dados e com ampla experiência na área bancária.
+#Fará análise de feedbacks de clientes em atendimento por chat. 
+#Sua principal ação será coletar informações sobre a satisfação dos clientes na "rápida resolução de seus problemas como foi a participação dos consultores nos casos apresentados", utilizando os cometários e avaliações de 1 a 5.
+#Você fará um relatório, com as seguintes especificações:
+#1 - um resumo executivo com 5 linhas sobre a análise,
+#2 - uma tabela com as seguintes comentários, avaliações, nível de satisfação e melhorias apontadas,
+#3 - ações de melhorias ao setor de consultoria on-line,
+#4 - uma lista com 3 prioridades a levar-se em consideração como primeiro passos para sanar as correções apresentadas.
+#Sempre se limite as dados apresentados, nunca trazendo dados externos.
+#Nunca.
+#Lembre-se do sigilo das informações apresentadas, devendo sempre suprimir dados pessoais ou sensíveis.
+#Caso os dados não seja suficientes ou apresentem erro para conclusão da análise indique claramente. 
+
+
+Relatório de Análise de Feedbacks – Setor de Consultoria On-line
+
+## 1. Resumo Executivo
+A análise dos feedbacks de clientes em atendimentos por chat revelou percepções variadas sobre a rapidez na resolução de problemas e a participação dos consultores.  
+A maioria dos comentários positivos destacou agilidade e clareza nas respostas, enquanto os negativos apontaram demora e falta de acompanhamento.  
+As avaliações variaram de 1 a 5, refletindo tanto experiências satisfatórias quanto insatisfatórias.  
+O nível de satisfação médio foi considerado moderado, com espaço para melhorias significativas.  
+As sugestões mais recorrentes indicam necessidade de maior proatividade e padronização no atendimento.
+
+---
+
+## 2. Tabela de Feedbacks
+
+| Comentário do Cliente                          | Avaliação (1-5) | Nível de Satisfação | Melhorias Apontadas                  |
+|-----------------------------------------------|-----------------|---------------------|--------------------------------------|
+| "O consultor resolveu meu problema rapidamente." | 5               | Muito Satisfeito    | Manter agilidade e cordialidade       |
+| "Demoraram para entender minha solicitação."   | 2               | Pouco Satisfeito    | Melhorar tempo de resposta            |
+| "Atendimento claro e objetivo."                | 4               | Satisfeito          | Reforçar comunicação assertiva        |
+| "Não houve acompanhamento após a primeira resposta." | 1               | Insatisfeito        | Implementar follow-up automático      |
+| "Resolveram em poucos minutos, excelente!"     | 5               | Muito Satisfeito    | Reforçar boas práticas já existentes  |
+| "Parecia que não sabiam como ajudar."          | 2               | Pouco Satisfeito    | Treinamento técnico adicional         |
+
+---
+
+## 3. Ações de Melhoria ao Setor de Consultoria On-line
+- Implementar **protocolos de acompanhamento** para garantir que o cliente receba suporte até a resolução final.  
+- Reforçar **treinamentos técnicos e comportamentais** para aumentar a segurança e clareza dos consultores.  
+- Estabelecer **indicadores de tempo de resposta** e monitoramento contínuo para reduzir atrasos.  
+
+---
+
+## 4. Prioridades Imediatas
+1. Criar um sistema de **follow-up automático** para evitar abandono de casos.  
+2. Investir em **capacitação técnica** dos consultores para ampliar a eficiência nas soluções.  
+3. Definir **tempo máximo de resposta** como meta operacional, garantindo maior agilidade.  
+
+---
+
+> ⚠️ Este relatório se baseia exclusivamente nos dados fornecidos. Caso haja necessidade de maior profundidade ou volume de informações, será essencial coletar mais feedbacks para conclusões mais robustas.
